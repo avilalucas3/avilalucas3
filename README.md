@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avilalucas3
+- 👋 Hi, I’m Jesus
 - 👀 I’m interested in learn new languages
-- 🌱 I’m currently learning Mobile Aplications, Frontend and backend
+- 🌱 I’m currently learning Mobile Aplications, Angular, Kotlin, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
